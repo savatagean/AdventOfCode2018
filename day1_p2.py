@@ -19,3 +19,5 @@ while True:
     i=i+1
     if i == len(freq_array):
         i = 0
+
+print the_number
